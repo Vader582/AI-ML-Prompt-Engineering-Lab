@@ -23,6 +23,8 @@ This lab will cover topics such as:
 
 For the purposes of this lab, our prompt engineering efforts will be conceptually aligned with the domain and potential applications relevant to VA Department of Transportation. We will consider how prompt engineering can address specific challenges or enhance capabilities within their industry.
 
+https://www.indeed.com/viewjob?jk=b72599ca9d9a4aa5&from=shareddesktop_copy
+
 ## Getting Started
 
 Feel free to explore the notebooks, scripts, and documentation within this repository as we build out our prompt engineering knowledge base.
