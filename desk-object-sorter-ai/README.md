@@ -75,5 +75,4 @@ I wish I had used a different camera, something other than my MacBook webcam. It
 ## (Optional) Screenshot
 * You can embed a screenshot of your Teachable Machine interface here if you like.
  
-[(https://github.com/Vader582/AI-ML-Prompt-Engineering-Lab/blob/5b5114711e8250a4aa1ff0e231146801d0cd09c4/desk-object-sorter-ai/final%20lab%20screenshot.png)
-](https://github.com/Vader582/AI-ML-Prompt-Engineering-Lab/blob/5b5114711e8250a4aa1ff0e231146801d0cd09c4/desk-object-sorter-ai/final%20lab%20screenshot.png)
+<img width="1588" alt="final lab screenshot" src="https://github.com/user-attachments/assets/c5cf5c7c-2c06-470f-8e10-22cf5152e0eb" />
