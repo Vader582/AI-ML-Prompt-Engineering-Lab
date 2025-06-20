@@ -50,6 +50,7 @@ This would add confusion to the AI model. Bad data in, gets bad data out. Images
     * What are some key limitations of the model you created?
       
 The model is limited in its interpretations due to the scope of what it has been exposed to. It seems to identify items somewhat easily that it’s already seen but variations can confuse it.
+
     * Why is it useful to be able to download your trained model files (like `model.json`, `weights.bin`) and share them (e.g., via GitHub)? What does this enable?
       
 Being able to share the files allows others to test your model under varied conditions and see if it maintains its accuracy. Downloaded these files can also act as a preservation of the data at that particular time.
