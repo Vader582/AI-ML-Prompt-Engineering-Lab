@@ -75,5 +75,4 @@ I wish I had used a different camera, something other than my MacBook webcam. It
 ## (Optional) Screenshot
 * You can embed a screenshot of your Teachable Machine interface here if you like.
  
-![image](desk-object-sorter-ai/final lab screenshot.png)
-
+desk-object-sorter-ai/final lab screenshot.png
