@@ -53,14 +53,13 @@ The model is limited in its interpretations due to the scope of what it has been
 
     * Why is it useful to be able to download your trained model files (like `model.json`, `weights.bin`) and share them (e.g., via GitHub)? What does this enable?
       
-Being able to share the files allows others to test your model under varied conditions and see if it maintains its accuracy. Downloaded these files can also act as a preservation of the data at that particular time.
+Being able to share the files allows others to test your model under varied conditions and see if it maintains its accuracy. Downloading these files can also act as a preservation of the data at that particular time.
 
 5.  **Real-World Applications & Ethics:**
     * Brainstorm 2-3 real-world applications where a similar image classification model could be useful.
       
 Image classification is already used to separate produce, good items from bad or small from larger. Also, Ford uses image classification in their truck factories to judge the quality of the paint jobs and identify issues before leaving the factory.
 https://www.designnews.com/automotive-engineering/fords-kentucky-truck-plant-embraces-ai-3d-printing-for-enhanced-vehicle-production
-
 
     * Briefly discuss one ethical consideration that developers should keep in mind when building and deploying image recognition AI in the real world (e.g., related to fairness, privacy, misuse).
    
